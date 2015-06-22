@@ -1,0 +1,8 @@
+app
+include
+include/architecture/ia32
+include/machine/pc
+include/stub
+include/system
+include/utility
+src/abstraction
